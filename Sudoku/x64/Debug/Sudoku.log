@@ -1,0 +1,4 @@
+﻿  Sudoku.cpp
+C:\Users\Quixar\source\repos\Sudoku\Sudoku.cpp(305,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Sudoku\Sudoku.cpp(611,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sudoku.vcxproj -> C:\Users\Quixar\source\repos\Sudoku\x64\Debug\Sudoku.exe
